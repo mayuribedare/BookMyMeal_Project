@@ -1,0 +1,14 @@
+E:\Project\DataLayer_BMM\bin\Debug\net7.0\DL_BMM.deps.json
+E:\Project\DataLayer_BMM\bin\Debug\net7.0\DL_BMM.runtimeconfig.json
+E:\Project\DataLayer_BMM\bin\Debug\net7.0\DL_BMM.dll
+E:\Project\DataLayer_BMM\bin\Debug\net7.0\DL_BMM.pdb
+E:\Project\DataLayer_BMM\obj\Debug\net7.0\DL_BMM.csproj.AssemblyReference.cache
+E:\Project\DataLayer_BMM\obj\Debug\net7.0\DL_BMM.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\DataLayer_BMM\obj\Debug\net7.0\DL_BMM.AssemblyInfoInputs.cache
+E:\Project\DataLayer_BMM\obj\Debug\net7.0\DL_BMM.AssemblyInfo.cs
+E:\Project\DataLayer_BMM\obj\Debug\net7.0\DL_BMM.csproj.CoreCompileInputs.cache
+E:\Project\DataLayer_BMM\obj\Debug\net7.0\DL_BMM.dll
+E:\Project\DataLayer_BMM\obj\Debug\net7.0\refint\DL_BMM.dll
+E:\Project\DataLayer_BMM\obj\Debug\net7.0\DL_BMM.pdb
+E:\Project\DataLayer_BMM\obj\Debug\net7.0\DL_BMM.genruntimeconfig.cache
+E:\Project\DataLayer_BMM\obj\Debug\net7.0\ref\DL_BMM.dll
