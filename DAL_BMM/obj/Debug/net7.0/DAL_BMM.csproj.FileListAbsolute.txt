@@ -1,0 +1,15 @@
+E:\Project\DAL_BMM\bin\Debug\net7.0\DAL_BMM.deps.json
+E:\Project\DAL_BMM\bin\Debug\net7.0\DAL_BMM.dll
+E:\Project\DAL_BMM\bin\Debug\net7.0\DAL_BMM.pdb
+E:\Project\DAL_BMM\bin\Debug\net7.0\DL_BMM.dll
+E:\Project\DAL_BMM\bin\Debug\net7.0\DL_BMM.pdb
+E:\Project\DAL_BMM\obj\Debug\net7.0\DAL_BMM.csproj.AssemblyReference.cache
+E:\Project\DAL_BMM\obj\Debug\net7.0\DAL_BMM.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\DAL_BMM\obj\Debug\net7.0\DAL_BMM.AssemblyInfoInputs.cache
+E:\Project\DAL_BMM\obj\Debug\net7.0\DAL_BMM.AssemblyInfo.cs
+E:\Project\DAL_BMM\obj\Debug\net7.0\DAL_BMM.csproj.CoreCompileInputs.cache
+E:\Project\DAL_BMM\obj\Debug\net7.0\DAL_BMM.csproj.CopyComplete
+E:\Project\DAL_BMM\obj\Debug\net7.0\DAL_BMM.dll
+E:\Project\DAL_BMM\obj\Debug\net7.0\refint\DAL_BMM.dll
+E:\Project\DAL_BMM\obj\Debug\net7.0\DAL_BMM.pdb
+E:\Project\DAL_BMM\obj\Debug\net7.0\ref\DAL_BMM.dll

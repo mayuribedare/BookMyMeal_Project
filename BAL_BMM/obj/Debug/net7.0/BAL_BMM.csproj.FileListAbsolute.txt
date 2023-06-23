@@ -1,0 +1,17 @@
+E:\Project\BAL_BMM\bin\Debug\net7.0\BAL_BMM.deps.json
+E:\Project\BAL_BMM\bin\Debug\net7.0\BAL_BMM.dll
+E:\Project\BAL_BMM\bin\Debug\net7.0\BAL_BMM.pdb
+E:\Project\BAL_BMM\bin\Debug\net7.0\DAL_BMM.dll
+E:\Project\BAL_BMM\bin\Debug\net7.0\DL_BMM.dll
+E:\Project\BAL_BMM\bin\Debug\net7.0\DAL_BMM.pdb
+E:\Project\BAL_BMM\bin\Debug\net7.0\DL_BMM.pdb
+E:\Project\BAL_BMM\obj\Debug\net7.0\BAL_BMM.csproj.AssemblyReference.cache
+E:\Project\BAL_BMM\obj\Debug\net7.0\BAL_BMM.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\BAL_BMM\obj\Debug\net7.0\BAL_BMM.AssemblyInfoInputs.cache
+E:\Project\BAL_BMM\obj\Debug\net7.0\BAL_BMM.AssemblyInfo.cs
+E:\Project\BAL_BMM\obj\Debug\net7.0\BAL_BMM.csproj.CoreCompileInputs.cache
+E:\Project\BAL_BMM\obj\Debug\net7.0\BAL_BMM.csproj.CopyComplete
+E:\Project\BAL_BMM\obj\Debug\net7.0\BAL_BMM.dll
+E:\Project\BAL_BMM\obj\Debug\net7.0\refint\BAL_BMM.dll
+E:\Project\BAL_BMM\obj\Debug\net7.0\BAL_BMM.pdb
+E:\Project\BAL_BMM\obj\Debug\net7.0\ref\BAL_BMM.dll
